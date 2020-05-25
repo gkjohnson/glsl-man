@@ -408,9 +408,9 @@ function gen_int(node) {
 	token(node.value);
 }
 
-function gen_bool(node) {
-	token(node.value);
-}
+// function gen_bool(node) {
+// 	token(node.value);
+// }
 
 function gen_precision(node) {
 	token(node.type);

@@ -23,12 +23,18 @@
   },
   "homepage": "https://github.com/lammas/glsl-man#readme",
   "devDependencies": {
+    "@rollup/plugin-alias": "^3.1.0",
+    "@rollup/plugin-commonjs": "^12.0.0",
+    "@rollup/plugin-node-resolve": "^8.0.0",
     "pegjs": "^0.10.0",
+    "rollup": "^2.10.9",
     "tap-spec": "^4.1.0",
     "tape": "^4.6.2"
   },
   "dependencies": {
     "cssauron": "^1.4.0",
+    "events": "^3.1.0",
+    "stream": "0.0.2",
     "tree-traversal": "^1.1.1"
   }
 }
