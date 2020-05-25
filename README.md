@@ -1,3 +1,7 @@
+# Custom Build
+
+This version of glsl-man adds packages and rollup configs to create a browser-usable build of the original package.
+
 # GLSL manipulator
 GLSL parser and code generator based on Google's glsl-unit grammar.
 
